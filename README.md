@@ -5,7 +5,7 @@
 
 <p align="left"> 
   <a href="https://twitter.com/rakeshgowda99" target="blank">
-    <img src="https://www.linkedin.com/in/rakesh-gowdra-783844171/" alt="rakeshgowdra" />
+    <img src="https://img.shields.io/twitter/follow/rakeshgowda99?logo=twitter&style=for-the-badge" alt="rakeshgowda99" />
   </a>
 </p>
 
