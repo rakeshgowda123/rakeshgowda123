@@ -1,11 +1,11 @@
-<h1 align="center">Hello World! I'm Rakesh Gowda 👋</h1>
-<h3 align="center">Web Developer from Karnataka, India</h3>
+<h1 align="center">Hello Techies! I'm Rakesh Gowda 👋</h1>
+<h3 align="center">Full Stack Developer from Karnataka, India</h3>
 
 <img align="right" alt="Coding" width="350" src="https://wallpapers.com/images/hd/web-developerat-work-illustration-png-9wxnnbpbatv5o2dn.png">
 
 <p align="left"> 
   <a href="https://twitter.com/rakeshgowda99" target="blank">
-    <img src="https://img.shields.io/twitter/follow/rakeshgowda99?logo=twitter&style=for-the-badge" alt="rakeshgowda99" />
+    <img src="https://www.linkedin.com/in/rakesh-gowdra-783844171/" alt="rakeshgowdra" />
   </a>
 </p>
 
@@ -19,7 +19,7 @@
 
 ## Connect with me
 <p align="left">
-  <a href="https://linkedin.com/in/rakesh-gowda-783844171" target="blank">
+  <a href="https://www.linkedin.com/in/rakesh-gowdra-783844171/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://twitter.com/rakeshgowda99" target="blank">
@@ -41,6 +41,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   
   <!-- Backend & Databases -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="ExpressJS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
@@ -49,6 +52,7 @@
   <!-- Tools & Platforms -->
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/ServiceNow_logo.svg" alt="ServiceNow" width="40" height="40"/>
 </p>
 
 ## GitHub Stats
